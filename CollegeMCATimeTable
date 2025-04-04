@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <style> table,th,td{
+    border :6px gray;
+    border-style:groove;
+    border-collapse :collapse;
+    margin :auto; 
+    text-align:center;   
+    }
+    td{
+        padding :10px;
+    }
+</style>
+    <table border="n">
+        <tr>
+          <th colspan="10" bgcolor="gray" >MCA II SEM (Time Table)</th>
+        </tr>
+            <tr>
+                <th> Day/Time</th>
+                <th>09:10-10:00</th>
+                <th>10:01-10:50</th>
+                <th>10:51-11:40</th>
+                <th>11:41-12:30</th>
+                <th>12:31-01:10</th>
+                <th>01:11-02:00</th>
+                <th>02:10-02:50</th>
+                <th>02:51-03.40</th>
+                <th>03:41-04:30</th>
+                </tr>
+                <tr>
+                  <td><b>Monday</b></td>
+                  <td colspan="2">OPPS LAB</td>
+                  <td bgcolor="moccasin">DSA</td>
+                  <td bgcolor="LightPink">Sport & Yoga</td>
+                  <td rowspan="6">LUNCH</td>
+                  <td colspan="2"><senter>WT LAB</senter></td>
+                  <td bgcolor="plum">DBMS</td>
+                  <td>OS</td>
+                </tr>
+                
+                <tr>
+                  <td><b>tuesday</b></td>
+                  <td>WT LAB</td>
+                  <td colspan="2"><center>DSA LAB</center></td>
+                  <td>OOPS</td>
+                  <td>OOPS</td>
+                  <td>DSA</td>
+                  <td>DBMS</td>
+                  <td>WT</td>
+                </tr>
+                <tr>
+               <td><b>Wedneday</b></td>
+                <td>OOPS</td>
+                <td>(OS) BMC 203(LK)</td>
+                <td>(DSA) BMC 205(AM) </td>
+                <td>(WT) BMC 201(AN)</td>
+                
+                <td colspan="2"><center>DSA LAB</center></td>
+                <td colspan="2">ECA/ SPORTS &YOGA/Technical Training</td>
+                </tr> 
+                <tr>
+                <td><b>Thuresday</b></td>
+                <td>(DBMS) BMC 204(KS)</td>
+                <td>(WT) BMC 201(AN)</td>
+                <td>(OS) BMC 203(LK)</td>
+                <td>OOPSLAB(G1)BMC 252(BM)</td>
+                <td>(DSA) BMC 205(AM) </td>
+                <td>(OOPS) BMC 202(BM)</td>
+                <td colspan="2">DBMS LAB(G1) BMC 253(KS)+(G2) BMC 253(SS)
+                  (207)</td>
+              
+                </tr>
+
+                <tr>
+                  <td><b>Friday</b></td>
+                  <td colspan="2">TRAINING</td>
+                  <td>(DBMS) BMC 204(KS) </td>
+                  <td>(WT) BMC 201(AN)</td>
+                  <td colspan="2">VERBAL</td>
+                  <td colspan="2">APTITUDE</td>
+                  
+                </tr>
+                <tr>
+                 <td><b>Saturday</b></td>
+                  <td colspan="2">TRAINING</td>
+                  <td>Slow Learner Revision Class BMC 201 (AN)
+                    </td>
+                  <td>Slow Learner Revision Class
+                    BMC 202(BM)</td>
+                  <td>Slow Learner Revision
+                    Class BMC 203 (LK)</td>
+                  <td>Slow Learner Revision
+                    Class BMC 204 ( KS)</td>
+                    <td>Slow Learner 
+                      Revision Class
+                      BMC 205 (AM)</td>
+                    <td></td>
+                    
+                </tr>
+    </table>
+</body>
+</html>
