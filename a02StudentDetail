@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GLBITM</title>
+</head>
+<body>
+    <header>
+<h1> STUDENT DETAILS</h1>
+
+</header>
+<main>
+    <a target="_main"><img src="https://i.ibb.co/QF5SLzfn/ajay-profile-pc.jpg"alt="Student" height="130"></a>
+    
+        <p> <b>NAME :Ajay Singh</b> </p>
+        <p><b> CLASS : MCA </b></p>
+    
+</main>
+<br>
+<h2><u><i>Question Quize</i></u></h2>
+<h4><u>Q.1:</u>  <i> What is the largest lake in the world?</i></h4>
+<p>a.Caspian Sea
+    <ol>
+        <li>cs</li>
+        <li>ms</li>
+    </ol>
+</p>
+<p>b.Baikal</p>
+<p>c.Lake Superior</p>
+<p>d.Ontario</p>
+<br>
+<h4><u>Q.2:</u><i> Which planet in the solar system is known as the “Red Planet”?</i></h4>
+<p>(a).Venus</p>
+<p>(b).Earth</p>
+<p>(c).Mars</p>
+<p>(d).Mars</p>
+<br>
+<h4><u>Q.3:</u><i> Which river is the longest in the world?</i></h4>
+<p>(a).Amazon</p>
+<p>(b).Mississippi</p>
+<p>(c).Nile
+    <ul><li>abc</li>
+    <li>xyz</li>
+</ul>
+</p>
+<p>(d).Yangtze</p>
+<br>
+<table border="5">
+    <thead>
+    <caption><b><u><i>Student Mark </i></u></b></caption>
+    <tr>
+        <th>S.Name</th>
+        <th>Marks</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td bgcolor="">Math</td>
+        <td>80</td>
+    </tr>
+
+    <tr>
+        <td bgcolor="yellow">Physics</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td bgcolor="red"> Computer </td>
+        <td>90</td>
+    </tr>
+</tbody>
+</table>
+
+</body>
+</html>
