@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<table border="1">
+        <table border="1">
+        <tr>
+          <th>Name</th>
+          <th>Age</th>
+          <th>City</th>
+        </tr>
+        <tr>
+          <td>Ajay</td>
+          <td>21</td>
+          <td>GKP</td>
+        </tr>
+        <tr>
+          <td>Bittu</td>
+          <td>19</td>
+          <td>Lucknow</td>
+        </tr>
+        <tr>
+            <td>Santosh</td>
+            <td>24</td>
+            <td>Muradabad</td>
+          </tr>
+      </table>
+    
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
