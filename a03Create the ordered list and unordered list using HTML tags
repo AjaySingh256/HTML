@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajay Singh</title>
+</head>
+<body>
+    <ol>
+        <h3>What is your city?</h3>
+        <li>Delhi</li>
+        <li>GKP</li>
+        <li>Lucknow</li>
+      </ol>
+      <h3>2.What is your favourite fruit?</h3>
+      <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Cherry</li>
+      </ul>
+      
+</body>
+</html>
