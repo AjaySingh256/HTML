@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GL Bajaj Institute of Technology and Management</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+        }
+    
+        h1 {
+          text-align: center;
+          color: #2a2a2a;
+        }
+    
+        table {
+          width: 60%;
+          margin: 20px auto;
+          border-collapse: collapse;
+        }
+    
+        th, td {
+          border: 1px solid #333;
+          padding: 10px;
+          text-align: center;
+        }
+    
+        th {
+          background-color: #f2f2f2;
+        }
+      </style>
+</head>
+<body>
+   
+
+
+  <h1>GL Bajaj Institute of Technology and Management</h1>
+
+  <table>
+    <tr>
+      <th>Student Name</th>
+      <th>Roll Number</th>
+      <th>Branch</th>
+    </tr>
+    <tr>
+      <td>Ajay Singh</td>
+      <td>0017</td>
+      <td>MCA</td>
+    </tr>
+    <tr>
+      <td>Bittu Kushwaha</td>
+      <td>0058</td>
+      <td>MBA</td>
+    </tr>
+  </table>
+
+</body>
+</html>
