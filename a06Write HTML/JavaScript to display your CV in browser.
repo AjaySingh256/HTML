@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .highlight {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>My CV</h1>
+  <div id="greeting"></div>
+
+  <div class="section">
+    <h2>Personal Information</h2>
+    <p><span class="highlight">Name:</span> Ajay Singh</p>
+    <p><span class="highlight">Email:</span> ajaysingh75121@gmail.com</p>
+    <p><span class="highlight">Phone:</span> +91-8953119167</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>c++, Java</li>
+      <li>C,DSA </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><span class="highlight"> Master Of Computer Application</span><br>
+    GL Bajaj Institute of Technology and Management<br>
+    2024 – 2026</p>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    <p><span class="highlight">DSA</span><br>
+    PW, OCT 2024 – April 2025 </p>
+  </div>
+
+  <script>
+    // Simple JavaScript greeting
+    const date = new Date();
+    const hours = date.getHours();
+    let greeting = '';
+
+    if (hours < 12) {
+      greeting = 'Good morning!';
+    } else if (hours < 18) {
+      greeting = 'Good afternoon!';
+    } else {
+      greeting = 'Good evening!';
+    }
+
+    document.getElementById('greeting').innerHTML = `<h2>${greeting} Welcome to my CV!</h2>`;
+  </script>
+
+</body>
+</html>
+
