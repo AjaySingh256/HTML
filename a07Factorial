@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Factorial Calculator</h1>
+  <button onclick="findFactorial()">Click to Enter Number</button>
+  <p id="result"></p>
+
+  <script>
+    function findFactorial() {
+      let number = prompt("Enter a Number:");
+      number = parseInt(number);
+
+      if (isNaN(number) || number < 0) {
+        document.getElementById("result").innerText = "Please enter a valid number.";
+        return;
+      }
+
+      let factorial = 1;
+      for (let i = 1; i <= number; i++) {
+        factorial *= i;
+      }
+
+      document.getElementById("result").innerText = `Factorial of ${number} is ${factorial}`;
+    }
+  </script>
+
+</body>
+</html>
